@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, , i'm Rahmat an informatics fresh graduate with a strong interest in data analyst 💻 and data science 📚
 
 <!--
 **RahmatFM/RahmatFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
